@@ -1,2 +1,2 @@
-# TheCircleFoundation.github.io
-Conceal paper wallet generator
+# The Nibble Developers
+Crumbs paper wallet generator
