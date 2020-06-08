@@ -1,2 +1,2 @@
 # The Nibble Developers
-Crumbs paper wallet generator
+Nibble paper wallet generator
